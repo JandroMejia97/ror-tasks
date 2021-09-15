@@ -11,6 +11,9 @@ capybara-*.html
 rerun.txt
 pickle-email-*.html
 
+# Temp
+test/
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
