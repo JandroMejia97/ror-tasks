@@ -60,3 +60,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Hamlit is a templating engine for Ruby. Read more: https://haml.info/
 gem 'hamlit', '~> 2.15'
 
+# Simple form gem for Rails
+gem "simple_form", "~> 5.1"
